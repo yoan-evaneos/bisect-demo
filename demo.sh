@@ -1,6 +1,6 @@
 #!/bin/bash
 
 var=$(./mine.sh)
-if [ $var -eq 1 ]; then
-    echo "Mined bitcoin"
+if [ "$var" == 1 ]; then
+    echo "Bitcoin miné !! "
 fi

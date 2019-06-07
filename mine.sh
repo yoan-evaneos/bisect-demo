@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo 1
+miningKey= echo 1 | md5
+echo $miningKey
