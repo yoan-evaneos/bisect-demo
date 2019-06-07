@@ -1,6 +1,6 @@
 #!/bin/bash
 
 var=$(./mine.sh)
-if [ "$var" == 1 ]; then
+if [ "$var" == 627a ]; then
     echo "Bitcoin miné !! "
 fi
