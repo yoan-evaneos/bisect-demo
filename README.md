@@ -9,3 +9,8 @@ A chaque exécution du script `./demo.sh`, le programme mine 1 Bitcoin
 ```
 $ > ./demo.sh
 ```
+
+## Résultat attendu
+Si le programme fonctionne correctemet, la commande doit retourner 
+`1 Bitcoin miné !!`
+En cas d'erreur, la commande retourne `Piratage du Bitcoin miné !!!`
