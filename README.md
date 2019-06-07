@@ -6,11 +6,14 @@ Dans notre exemple, nous avons créé un script permettant de miner du Bitcoin. 
 A chaque exécution du script `./demo.sh`, le programme mine 1 Bitcoin
 
 ## Utilisation
+Pour exécuter le programme, ouvrir un terminal et lancer
 ```
-$ > ./demo.sh
+$> ./demo.sh
 ```
 
 ## Résultat attendu
+
 Si le minage de Bitcoin se passe correctemet, la commande doit retourner 
 `1 Bitcoin miné !!`
+
 En cas d'erreur, la commande retourne `Piratage du Bitcoin miné !!!`
