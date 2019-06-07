@@ -1,7 +1,9 @@
 #!/bin/bash
 
+readonly cleChiffreeAttendu=627A
+
 cleChiffree=$(./mine.sh)
-if [ "$cleChiffree" == 627a ]; then
+if [ "$cleChiffree" == $cleChiffreeAttendu ]; then
     echo "1 Bitcoin miné !! "
 else
     echo "Piratage du Bitcoin miné !!!"
