@@ -11,6 +11,6 @@ $ > ./demo.sh
 ```
 
 ## Résultat attendu
-Si le programme fonctionne correctemet, la commande doit retourner 
+Si le minage de Bitcoin se passe correctemet, la commande doit retourner 
 `1 Bitcoin miné !!`
 En cas d'erreur, la commande retourne `Piratage du Bitcoin miné !!!`
