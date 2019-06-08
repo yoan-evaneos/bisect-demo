@@ -10,7 +10,7 @@ Un bug a été introduit dans l'un des commits du projet. On pense que quelqu'un
 ## Utilisation
 Pour exécuter le programme, ouvrir un terminal et lancer
 ```
-$> ./bitcoin.sh
+$> ./demo.sh
 ```
 
 ## Résultat attendu
